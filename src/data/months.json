@@ -1,0 +1,938 @@
+[
+  {
+    "id": "jan",
+    "name": "Styczeń",
+    "values": [
+      {
+        "id": "see",
+        "text": "Wzrok",
+        "values": [
+          {
+            "id": 1,
+            "title": "Księżyc",
+            "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+            "image": "ksiezyc.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Merkury",
+            "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+            "image": "Merkury.jpg"
+          }
+        ]
+      },
+      {
+        "id": "ocu",
+        "text": "Lornetka",
+        "values": [
+          {
+            "id": 1,
+            "title": "Jowisz",
+            "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+            "image": "jowisz.png"
+          },
+          {
+            "id": 2,
+            "title": "Saturn",
+            "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+            "image": "saturn.png"
+          }
+        ]
+      },
+      {
+        "id": "lit",
+        "text": "Mały teleskop",
+        "values": [
+          {
+            "id": 1,
+            "title": "Uran",
+            "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+            "image": "uran.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Neptun",
+            "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+            "image": "neptun.jpg"
+          }
+        ]
+      },
+      {
+        "id": "big",
+        "text": "Duży teleskop",
+        "values": [
+          {
+            "id": 1,
+            "title": "Merkury",
+            "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+            "image": "Merkury.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Wielki Pies",
+            "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+            "image": "wielkipies.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "feb",
+    "name": "Luty",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Byk",
+              "text": "duży i wyraźny, 17. co do wielkości, gwiazdozbiór zodiakalny nieba północnego, leżący w pobliżu równika niebieskiego.",
+              "image": "byk.png"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "mar",
+    "name": "Marzec",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "apr",
+    "name": "Kwiecień",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "may",
+    "name": "Maj",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "jun",
+    "name": "Czerwiec",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "jul",
+    "name": "Lipiec",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "aug",
+    "name": "Sierpień",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "sep",
+    "name": "Wrzesień",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "oct",
+    "name": "Październik",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "nov",
+    "name": "Listopad",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  },
+  {
+    "id": "dec",
+    "name": "Grudzień",
+    "values": [
+        {
+          "id": "see",
+          "text": "Wzrok",
+          "values": [
+            {
+              "id": 1,
+              "title": "Księżyc",
+              "text": "jedyny naturalny satelita Ziemi. Jest piątym co do wielkości księżycem w Układzie Słonecznym.",
+              "image": "ksiezyc.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            }
+          ]
+        },
+        {
+          "id": "ocu",
+          "text": "Lornetka",
+          "values": [
+            {
+              "id": 1,
+              "title": "Jowisz",
+              "text": "Masa Jowisza jest mniejsza niż jedna tysięczna masy Słońca, ale dwa i pół razy większa niż łączna masa reszty planet w Układzie Słonecznym.",
+              "image": "jowisz.png"
+            },
+            {
+              "id": 2,
+              "title": "Saturn",
+              "text": "gazowy olbrzym, szósta planeta Układu Słonecznego pod względem odległości od Słońca, druga po Jowiszu pod względem masy i wielkości.",
+              "image": "saturn.png"
+            }
+          ]
+        },
+        {
+          "id": "lit",
+          "text": "Mały teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Uran",
+              "text": "gazowy olbrzym, siódma od Słońca planeta Układu Słonecznego, trzecia pod względem wielkości i czwarta pod względem masy.",
+              "image": "uran.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Neptun",
+              "text": "Neptun jest ponad 17 razy masywniejszy od Ziemi i trochę masywniejszy od swojego bliźniaka, Urana.",
+              "image": "neptun.jpg"
+            }
+          ]
+        },
+        {
+          "id": "big",
+          "text": "Duży teleskop",
+          "values": [
+            {
+              "id": 1,
+              "title": "Merkury",
+              "text": "najmniejsza i najbliższa Słońca planeta Układu Słonecznego.",
+              "image": "Merkury.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Wielki Pies",
+              "text": "gwiazdozbiór nieba zimowego półkuli południowej, znany już w starożytności.",
+              "image": "wielkipies.png"
+            }
+          ]
+        }
+      ]
+  }
+]
